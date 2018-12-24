@@ -13,6 +13,7 @@ public class FirstOne {
       z = x + y;
      
       System.out.println("Sum of the integers = " + z);
+      //check two
    }
 }
 	
