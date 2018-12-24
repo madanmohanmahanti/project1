@@ -15,6 +15,7 @@ public class FirstOne {
       System.out.println("Sum of the integers = " + z);
       //check two
       //checkc with remmote changes 
+		//same file change check 
    }
 }
 	
