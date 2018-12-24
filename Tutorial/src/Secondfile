@@ -4,3 +4,6 @@ stash check
 git fetch check
 
 git fecth check2
+
+
+git pull check
