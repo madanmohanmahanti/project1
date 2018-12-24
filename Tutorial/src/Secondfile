@@ -1,3 +1,4 @@
 check with local changes as well
 
 stash check
+git fetch check
