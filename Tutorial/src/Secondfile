@@ -2,3 +2,5 @@ check with local changes as well
 
 stash check
 git fetch check
+
+git fecth check2
